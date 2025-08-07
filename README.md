@@ -107,37 +107,6 @@ const developer = {
 - 🎸 **ChordMaster**: Guitar chord learning app
 - 🎹 **BeatMaker**: Web sequencer with Web Audio API
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=tokyonight&border_radius=10" />
-</a>
-<a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight&border_radius=10" />
-</a>
-
-</div>
-
-### 💼 Architectures I Master
-
-```mermaid
-graph TB
-    A[Frontend - React/Next.js] --> B[API Gateway]
-    B --> C[Microservices - Node.js]
-    C --> D[Database - MongoDB]
-    C --> E[Cache - Redis]
-    B --> F[AWS Lambda]
-    F --> G[AWS S3]
-    A --> H[CDN - CloudFront]
-    
-    style A fill:#61DAFB
-    style C fill:#339933
-    style D fill:#47A248
-    style F fill:#FF9900
-```
-
 ## 🌟 What Drives Me
 
 <div align="center">
@@ -160,11 +129,9 @@ graph TB
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/camilo-andres-vargas-niño-b3a57a1b9)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camiloandresvargas12@gmail.com)
 
 </div>
 
