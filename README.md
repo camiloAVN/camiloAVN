@@ -49,11 +49,11 @@ const developer = {
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -70,8 +70,8 @@ const developer = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 </div>
 
@@ -81,12 +81,12 @@ const developer = {
 
 | Technology | Level | Progress |
 |------------|-------|----------|
-| **React & Ecosystem** | Advanced | ![90%](https://progress-bar.dev/90?color=61DAFB) |
-| **Node.js & Express** | Advanced | ![88%](https://progress-bar.dev/88?color=339933) |
-| **MongoDB & Mongoose** | Advanced | ![85%](https://progress-bar.dev/85?color=47A248) |
-| **AWS Services** | Intermediate | ![75%](https://progress-bar.dev/75?color=FF9900) |
-| **TypeScript** | Intermediate | ![80%](https://progress-bar.dev/80?color=3178C6) |
-| **Docker & DevOps** | Intermediate | ![70%](https://progress-bar.dev/70?color=2496ED) |
+| **React & Ecosystem** | Advanced | ![90%](https://progress-bar.xyz/90) |
+| **Node.js & Express** | Advanced | ![88%](https://progress-bar.xyz/80) |
+| **MongoDB & Mongoose** | Advanced | ![85%](https://progress-bar.xyz/85) |
+| **AWS Services** | Intermediate | ![75%](https://progress-bar.xyz/75) |
+| **TypeScript** | Intermediate | ![80%](https://progress-bar.xyz/80) |
+| **Docker & DevOps** | Intermediate | ![70%](https://progress-bar.xyz/70) |
 
 </div>
 
@@ -138,31 +138,6 @@ graph TB
     style F fill:#FF9900
 ```
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
-
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight&border_radius=10)
-
-</div>
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-![AWS](https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws)
-![Meta](https://img.shields.io/badge/Meta-React_Developer-1877F2?style=for-the-badge&logo=meta)
-![Google](https://img.shields.io/badge/Google-Cloud_Digital_Leader-4285F4?style=for-the-badge&logo=google-cloud)
-
-</div>
-
 ## 🌟 What Drives Me
 
 <div align="center">
@@ -206,6 +181,5 @@ graph TB
 
 **⭐ If you like my work, consider giving a star to my repositories ⭐**
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=yourusername&label=Visitors&labelColor=%23697689&countColor=%236c63ff&style=flat-square)
 
 </div>
