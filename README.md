@@ -33,7 +33,7 @@
 
 ```javascript
 const developer = {
-    name: "Your Name",
+    name: "Camilo Andres Vargas",
     location: "Bogotá, Colombia 🇨🇴",
     role: "Full Stack Developer",
     languages: ["JavaScript", "TypeScript", "Python"],
